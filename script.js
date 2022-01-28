@@ -22,3 +22,13 @@ for(let i = 1; i <= cantidad ; i++) {
     }
 
 }
+
+
+//3. Dado el numero deben imprimir la tabla de multiplicar del 1 al 10
+
+let tabla =5
+
+
+for (let i = 1; i <= 10; i++) {
+    console.log(`${tabla} x ${i} = ${tabla*i}`)
+}
